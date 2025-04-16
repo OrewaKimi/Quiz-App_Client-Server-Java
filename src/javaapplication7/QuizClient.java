@@ -6,7 +6,7 @@ package javaapplication7;
 
 /**
  *
- * @author Davit Zarly
+ * @author Kimi Maulana
  */
 import java.awt.*;
 import java.io.*;
